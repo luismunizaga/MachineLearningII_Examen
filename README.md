@@ -137,3 +137,16 @@ Las variables asociadas a **asistencia**, **avance de malla**, **rendimiento aca
 ---
 
 ## 📁 Estructura del repositorio
+
+- Retencion.ipynb # Notebook principal
+- utils.py # Funciones auxiliares y pipelines
+- data/ # (No incluido) Datos sensibles
+- figures/ # Gráficos generados
+- README.md # Documentación del proyecto
+
+
+---
+
+## 📌 Nota final
+Este proyecto demuestra el potencial del *Machine Learning* como herramienta estratégica para la **retención estudiantil**, integrando rigor técnico, interpretabilidad y una visión ética orientada al impacto institucional.
+
